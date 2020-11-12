@@ -42,9 +42,9 @@ I'm a software engineer who loves crafting elegant, resilient and creative solut
 
 ## Expertise
 
-- <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/html5.svg" width="16px">HTML
-- <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/css3.svg" width="16px">CSS/SASS
-- <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/js.svg" width="16px">JavaScript
+- <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/html5.svg" width="16px"> HTML
+- <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/css3.svg" width="16px"> CSS/SASS
+- <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/js.svg" width="16px"> JavaScript
 
 ## Skills
 
