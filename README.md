@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ## Intro
+
 I'm a software engineer who loves crafting elegant, resilient and creative solutions to the most interesting and challenging problems. I have experience site-building with HTML and CMSs like Drupal and Wordpress, but I really thrive when I get to architect front end code that will stand the test of time, and make future-me proud of the code I wrote because of its ease of maintainability and ability to make an update without fearing that I'll break something somewhere else.
 
 ## Experience
+
 **Frontend Engineer, Four Kitchens — 2016-Present**
+
 - Performed the roles of **Frontend Architect**, **Design System Implementor**, **Engineer**, and **Frontend Consultant** on projects for clients such as Yale, Ithaca College, NYU, New York Public Library, and others.
 - Led teams of jr and full-stack engineers to develop **resilient** and **maintainable frontend architecture** to be deployed to dozens of sites so that updates and tweaks could be pushed out with ease while maintaining a stable code base.
 - Identified and resolved **performance** and **accessibility** issues on existing code bases to improve visitor retention, search engine optimization, and usability for all site visitors.
@@ -31,17 +34,20 @@ I'm a software engineer who loves crafting elegant, resilient and creative solut
 - Utilized tools such as Git, StyleLint, ESLint, Prettier, and CircleCI to ensure **code quality**, correctness, and **maintainability**.
 
 ## Contact
+
 - 785-810-8215
 - brian@modulesunraveled.com
 - @ModsUnraveled
 - github.com/ModulesUnraveled
 
 ## Expertise
-- HTML
+
+- <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/master/icons/html5.svg" width="30px">HTML
 - CSS/SASS
 - JavaScript
 
 ## Skills
+
 - Drupal
 - PatternLab
 - Storybook
