@@ -57,3 +57,5 @@ I'm a software engineer who loves crafting elegant, resilient and creative solut
 - Component Libraries
 - Style Guides
 - Design Systems
+
+[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=ModulesUnraveled)](https://github.com/anuraghazra/github-readme-stats)
