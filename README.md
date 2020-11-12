@@ -42,7 +42,7 @@ I'm a software engineer who loves crafting elegant, resilient and creative solut
 
 ## Expertise
 
-- <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/html5.svg" width="30px">HTML
+- <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/html5.svg" style="margin-right: 1rem; width: 1rem;">HTML
 - CSS/SASS
 - JavaScript
 
