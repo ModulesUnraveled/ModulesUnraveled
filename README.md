@@ -33,29 +33,8 @@ I'm a software engineer who loves crafting elegant, resilient and creative solut
 - **Co-led** the creation of **Emulsify**, an open-source tool for creating **design systems with reusable components, and clear guidelines** for teams.
 - Utilized tools such as Git, StyleLint, ESLint, Prettier, and CircleCI to ensure **code quality**, correctness, and **maintainability**.
 
-## Contact
-
-- 785-810-8215
-- brian@modulesunraveled.com
-- @ModsUnraveled
-- github.com/ModulesUnraveled
-
-## Expertise
-
-- <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/html5.svg" width="16px"> HTML
-- <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/css3.svg" width="16px"> CSS/SASS
-- <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/js.svg" width="16px"> JavaScript
-
-## Skills
-
-- Drupal
-- PatternLab
-- Storybook
-- React
-- Twig
-- Web Components
-- Component Libraries
-- Style Guides
-- Design Systems
+| Expertise                                                                                                                                                                                                                                                                                                                                                                            | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Contact                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/html5.svg" width="16px"> HTML <br> <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/css3.svg" width="16px"> CSS/SASS <br> <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/js.svg" width="16px"> JavaScript | <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/drupal.svg" width="16px"> Drupal <br> <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/PatternLab.png" width="16px"> PatternLab <br> <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/storybook.png" width="16px"> Storybook <br> <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/react.svg" width="16px"> React <br> <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/twig.png" width="16px"> Twig <br> <img src="https://raw.githubusercontent.com/ModulesUnraveled/ModulesUnraveled/main/icons/web-components.png" width="16px"> Web Components <br> Component Libraries <br> Style Guides <br> Design Systems | 785-810-8215 <br> brian@modulesunraveled.com <br> @ModsUnraveled <br> github.com/ModulesUnraveled\ |
 
 [![Brian's github stats](https://github-readme-stats.vercel.app/api?username=ModulesUnraveled)](https://github.com/anuraghazra/github-readme-stats)
