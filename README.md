@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Intro
 
-I'm a software engineer who loves crafting elegant, resilient and creative solutions to the most interesting and challenging problems. I have experience site-building with HTML and CMSs like Drupal and Wordpress, but I really thrive when I get to architect front end code that will stand the test of time, and make future-me proud of the code I wrote because of its ease of maintainability and ability to make an update without fearing that I'll break something somewhere else.
+I'm a software engineer who loves crafting elegant, resilient, and creative solutions to the most interesting and challenging problems. I have experience site-building with HTML and CMSs like Drupal and Wordpress, but I really thrive when I get to architect front end code that will stand the test of time, and make future-me proud of the code I wrote because of its ease of maintainability and ability to make an update without fearing that I'll break something somewhere else.
 
 ## Experience
 
