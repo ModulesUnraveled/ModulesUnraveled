@@ -34,12 +34,15 @@ I'm a software engineer who loves crafting elegant, resilient and creative solut
 - Utilized tools such as Git, StyleLint, ESLint, Prettier, and CircleCI to ensure **code quality**, correctness, and **maintainability**.
 
 ## Expertise
-<img src="./buttons/HTML5.png" height="80px"> <img src="./buttons/CSS3.png" height="80px"> <img src="./buttons/JavaScript.png" height="80px">
+
+<img src="./buttons/HTML5.png" height="30px"> <img src="./buttons/CSS3.png" height="30px"> <img src="./buttons/JavaScript.png" height="30px">
 
 ## Skills
-<img src="./buttons/Drupal.png" height="80px"> <img src="./buttons/PatternLab.png" height="80px"> <img src="./buttons/Storybook.png" height="80px"> <img src="./buttons/React.png" height="80px"> <img src="./buttons/Twig.png" height="80px"> <img src="./buttons/WebComponents.png" height="80px"> <img src="./buttons/ComponentLibraries.png" height="80px"> <img src="./buttons/StyleGuides.png" height="80px"> <img src="./buttons/DesignSystems.png" height="80px">
+
+<img src="./buttons/Drupal.png" height="30px"> <img src="./buttons/PatternLab.png" height="30px"> <img src="./buttons/Storybook.png" height="30px"> <img src="./buttons/React.png" height="30px"> <img src="./buttons/Twig.png" height="30px"> <img src="./buttons/WebComponents.png" height="30px"> <img src="./buttons/ComponentLibraries.png" height="30px"> <img src="./buttons/StyleGuides.png" height="30px"> <img src="./buttons/DesignSystems.png" height="30px">
 
 ## Contact
-<a href="mailto: brian@modulesunraveled.com"><img src="./buttons/Email.png" height="80px"></a> <a href="https://twitter.com/modsunraveled"><img src="./buttons/Twitter.png" height="80px"></a>
+
+<a href="mailto: brian@modulesunraveled.com"><img src="./buttons/Email.png" height="30px"></a> <a href="https://twitter.com/modsunraveled"><img src="./buttons/Twitter.png" height="30px"></a>
 
 [![Brian's github stats](https://github-readme-stats.vercel.app/api?username=ModulesUnraveled)](https://github.com/anuraghazra/github-readme-stats)
