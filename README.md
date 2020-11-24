@@ -43,6 +43,6 @@ I'm a software engineer who loves crafting elegant, resilient, and creative solu
 
 ## Contact
 
-<a href="mailto: brian@modulesunraveled.com"><img src="./buttons/Email.png" height="50px"></a> <a href="https://twitter.com/modsunraveled"><img src="./buttons/Twitter.png" height="50px"></a>
+<a href="https://www.linkedin.com/in/brian-lewis-ks"><img src="./buttons/LinkedIn.png" height="50px"></a> <a href="mailto: brian@modulesunraveled.com"><img src="./buttons/Email.png" height="50px"></a> <a href="https://twitter.com/modsunraveled"><img src="./buttons/Twitter.png" height="50px"></a>
 
 [![Brian's github stats](https://github-readme-stats.vercel.app/api?username=ModulesUnraveled)](https://github.com/anuraghazra/github-readme-stats)
